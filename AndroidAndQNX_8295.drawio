@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Lucida Console&quot;&gt;SA8295P&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="860" x="40" y="700" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
