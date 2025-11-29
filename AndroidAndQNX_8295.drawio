@@ -46,6 +46,9 @@
         <mxCell id="ocAe3dWcoNqjVCBCcVne-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;AOSP &amp;amp; Framework&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="1008" x="640" y="613" as="geometry" />
         </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;GUI Engine&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;(QT)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="61" width="246" x="28" y="664" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
