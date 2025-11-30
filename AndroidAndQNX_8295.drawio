@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.2.1">
   <diagram name="第 1 页" id="R5hNhlqgCz4g2QxdA5r8">
-    <mxGraphModel dx="851" dy="437" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1767" dy="908" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -622,11 +622,17 @@
         <mxCell id="ocAe3dWcoNqjVCBCcVne-243" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Location&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="29" width="112" x="1658" y="783.9200000000001" as="geometry" />
         </mxCell>
-        <mxCell id="ocAe3dWcoNqjVCBCcVne-244" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Vold&lt;/span&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-244" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;USB&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="29" width="112" x="1781" y="749.08" as="geometry" />
         </mxCell>
-        <mxCell id="ocAe3dWcoNqjVCBCcVne-245" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Location&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="29" width="112" x="1781" y="783.9100000000001" as="geometry" />
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-245" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;BootCtrl&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29" width="112" x="2029" y="749.08" as="geometry" />
+        </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-246" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;iAP2&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29" width="112" x="1904" y="749.08" as="geometry" />
+        </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-247" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Vehicle&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29" width="112" x="2152" y="749.08" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
