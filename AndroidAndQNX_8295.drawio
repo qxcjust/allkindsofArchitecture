@@ -214,17 +214,32 @@
         <mxCell id="ocAe3dWcoNqjVCBCcVne-88" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="" vertex="1">
           <mxGeometry height="135" width="108" x="144" y="444" as="geometry" />
         </mxCell>
-        <mxCell id="ocAe3dWcoNqjVCBCcVne-89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="LifeCycle" vertex="1">
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="Audio" vertex="1">
           <mxGeometry height="19" width="121" x="144" y="444" as="geometry" />
         </mxCell>
-        <mxCell id="ocAe3dWcoNqjVCBCcVne-90" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;PowerMgr&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="29" width="93" x="151" y="471" as="geometry" />
-        </mxCell>
-        <mxCell id="ocAe3dWcoNqjVCBCcVne-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 14px;&quot;&gt;HealthCl.&lt;/font&gt;" vertex="1">
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 14px;&quot;&gt;AudioMgr&lt;/font&gt;" vertex="1">
           <mxGeometry height="29" width="93" x="151" y="509" as="geometry" />
         </mxCell>
-        <mxCell id="ocAe3dWcoNqjVCBCcVne-92" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 14px;&quot;&gt;PowerProxy&lt;/font&gt;" vertex="1">
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-92" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 14px;&quot;&gt;DSP&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 14px;&quot;&gt;Control&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="29" width="93" x="151" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-93" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 14px;&quot;&gt;Clime Play&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29" width="93" x="151.5" y="471" as="geometry" />
+        </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-94" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="" vertex="1">
+          <mxGeometry height="135" width="108" x="271" y="444" as="geometry" />
+        </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-95" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="Display" vertex="1">
+          <mxGeometry height="19" width="121" x="271" y="444" as="geometry" />
+        </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 14px;&quot;&gt;LVDS&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 14px;&quot;&gt;Monitor&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="29" width="93" x="278" y="509" as="geometry" />
+        </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-97" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;IVI Disp.&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Agent&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="29" width="93" x="278" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-98" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 14px;&quot;&gt;Backlight&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 14px;&quot;&gt;Ctl&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="29" width="93" x="278.5" y="471" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
