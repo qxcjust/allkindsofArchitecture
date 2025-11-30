@@ -868,7 +868,7 @@
         <mxCell id="ocAe3dWcoNqjVCBCcVne-333" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;eOM&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="41" width="112" x="1586" y="159" as="geometry" />
         </mxCell>
-        <mxCell id="ocAe3dWcoNqjVCBCcVne-334" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Vehicle&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Setting&lt;/span&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-334" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;System&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Setting&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="41" width="112" x="1709" y="159" as="geometry" />
         </mxCell>
         <mxCell id="ocAe3dWcoNqjVCBCcVne-335" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;App Store&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
