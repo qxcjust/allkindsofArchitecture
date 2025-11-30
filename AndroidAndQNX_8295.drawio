@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.2.1">
   <diagram name="第 1 页" id="R5hNhlqgCz4g2QxdA5r8">
-    <mxGraphModel dx="521" dy="219" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1071" dy="451" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -727,19 +727,19 @@
         <mxCell id="ocAe3dWcoNqjVCBCcVne-278" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 12px;&quot;&gt;Res.Mgr&lt;/font&gt;" vertex="1">
           <mxGeometry height="34" width="112" x="1113" y="392" as="geometry" />
         </mxCell>
-        <mxCell id="ocAe3dWcoNqjVCBCcVne-279" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 12px;&quot;&gt;Power&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot; size=&quot;3&quot;&gt;Mgr&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-279" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 12px;&quot;&gt;Power&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 12px;&quot;&gt;Mgr&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="46.5" width="112" x="1230" y="337.5" as="geometry" />
         </mxCell>
-        <mxCell id="ocAe3dWcoNqjVCBCcVne-280" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 14px;&quot;&gt;Wifi&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;&quot; size=&quot;3&quot;&gt;Service&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-280" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 12px;&quot;&gt;Wifi&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 12px;&quot;&gt;Service&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="34" width="112" x="1230" y="392" as="geometry" />
         </mxCell>
-        <mxCell id="ocAe3dWcoNqjVCBCcVne-281" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 14px;&quot;&gt;Window&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot; size=&quot;3&quot;&gt;Mgr&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-281" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 12px;&quot;&gt;Window&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 12px;&quot;&gt;Mgr&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="46.5" width="112" x="1346.5" y="284" as="geometry" />
         </mxCell>
-        <mxCell id="ocAe3dWcoNqjVCBCcVne-282" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 14px;&quot;&gt;Notification&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;&quot; size=&quot;3&quot;&gt;Mgr&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-282" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 12px;&quot;&gt;Notification&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 12px;&quot;&gt;Mgr&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="46.5" width="112" x="1346.5" y="338" as="geometry" />
         </mxCell>
-        <mxCell id="ocAe3dWcoNqjVCBCcVne-283" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Package&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Mgr&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-283" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 12px;&quot;&gt;Package&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 12px;&quot;&gt;Mgr&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="34" width="112" x="1346.5" y="392.5" as="geometry" />
         </mxCell>
         <mxCell id="ocAe3dWcoNqjVCBCcVne-284" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Mulit&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Display&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
@@ -805,7 +805,7 @@
         <mxCell id="ocAe3dWcoNqjVCBCcVne-305" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Voice&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Service(SDK)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="120.67" x="2213" y="333" as="geometry" />
         </mxCell>
-        <mxCell id="ocAe3dWcoNqjVCBCcVne-306" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Car&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;UxRestriction&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-306" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Cloud Agent&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="119.5" x="2076.5" y="382" as="geometry" />
         </mxCell>
         <mxCell id="ocAe3dWcoNqjVCBCcVne-307" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Voice&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Service&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
