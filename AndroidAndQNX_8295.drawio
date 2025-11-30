@@ -125,7 +125,52 @@
           <mxGeometry height="29" width="112" x="882" y="946.1700000000001" as="geometry" />
         </mxCell>
         <mxCell id="ocAe3dWcoNqjVCBCcVne-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="" vertex="1">
-          <mxGeometry height="207" width="967" x="28" y="622" as="geometry" />
+          <mxGeometry height="96" width="967" x="28" y="733" as="geometry" />
+        </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Virtualization Driver" vertex="1">
+          <mxGeometry height="19" width="121" x="28" y="733" as="geometry" />
+        </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;v.Touch&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29" width="101" x="43" y="757" as="geometry" />
+        </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;v.pimc&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29" width="101" x="43" y="792.17" as="geometry" />
+        </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;v.Audio&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29" width="112" x="169" y="757" as="geometry" />
+        </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;v.Camera&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29" width="112" x="302" y="757" as="geometry" />
+        </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;v.Secure&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29" width="112" x="440" y="757" as="geometry" />
+        </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;v.vpu&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29" width="112" x="580" y="757" as="geometry" />
+        </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;v.gpu&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29" width="112" x="727" y="757" as="geometry" />
+        </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;v.Eth&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29" width="112" x="864" y="757" as="geometry" />
+        </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;v.DMA&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29" width="112" x="169" y="792.17" as="geometry" />
+        </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;v.Display&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29" width="112" x="302" y="792.17" as="geometry" />
+        </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;v.Block&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29" width="112" x="440" y="792.17" as="geometry" />
+        </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;v.GPIO&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29" width="112" x="580" y="792.17" as="geometry" />
+        </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;v.I2C&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29" width="112" x="727" y="792.17" as="geometry" />
+        </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;v.PCIe&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29" width="112" x="864" y="792.17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
