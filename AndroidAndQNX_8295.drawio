@@ -449,22 +449,22 @@
           <mxGeometry height="23" width="78" x="531.5" y="373.25" as="geometry" />
         </mxCell>
         <mxCell id="ocAe3dWcoNqjVCBCcVne-182" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;HMI Simulation&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="31" width="108" x="643" y="399" as="geometry" />
+          <mxGeometry height="31" width="107.5" x="645" y="396.5" as="geometry" />
         </mxCell>
         <mxCell id="ocAe3dWcoNqjVCBCcVne-183" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="" vertex="1">
-          <mxGeometry height="100" width="108" x="643.5" y="292" as="geometry" />
+          <mxGeometry height="100" width="108" x="645" y="292" as="geometry" />
         </mxCell>
         <mxCell id="ocAe3dWcoNqjVCBCcVne-184" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="HMI Utility" vertex="1">
-          <mxGeometry height="19" width="105" x="643.5" y="292" as="geometry" />
+          <mxGeometry height="19" width="105" x="645" y="292" as="geometry" />
         </mxCell>
         <mxCell id="ocAe3dWcoNqjVCBCcVne-185" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;SignalSlot&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="21" width="93" x="651" y="313" as="geometry" />
+          <mxGeometry height="21" width="93" x="652.5" y="313" as="geometry" />
         </mxCell>
         <mxCell id="ocAe3dWcoNqjVCBCcVne-186" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Com&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="18" width="93" x="651" y="343.5" as="geometry" />
+          <mxGeometry height="18" width="93" x="652.5" y="343.5" as="geometry" />
         </mxCell>
         <mxCell id="ocAe3dWcoNqjVCBCcVne-187" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Utility&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="18" width="93" x="651" y="371" as="geometry" />
+          <mxGeometry height="18" width="93" x="652.5" y="371" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
