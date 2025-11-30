@@ -700,6 +700,15 @@
         <mxCell id="ocAe3dWcoNqjVCBCcVne-269" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;iAP2&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="26" width="112" x="1914" y="668.5" as="geometry" />
         </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-270" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;BTStack&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29" width="112" x="2032" y="622.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-271" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Log&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="112" x="2032" y="668.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-272" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;FOTA&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29" width="112" x="2152" y="623" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
