@@ -710,10 +710,10 @@
           <mxGeometry height="29" width="112" x="2226.5" y="462" as="geometry" />
         </mxCell>
         <mxCell id="ocAe3dWcoNqjVCBCcVne-273" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="" vertex="1">
-          <mxGeometry height="174" width="963.5" x="1099.5" y="257" as="geometry" />
+          <mxGeometry height="174" width="1246.5" x="1099.5" y="257" as="geometry" />
         </mxCell>
-        <mxCell id="ocAe3dWcoNqjVCBCcVne-274" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;AOSP Framework&lt;/font&gt;" vertex="1">
-          <mxGeometry height="19" width="121" x="1101.5" y="257" as="geometry" />
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-274" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Android Framework&lt;/font&gt;" vertex="1">
+          <mxGeometry height="19" width="238.5" x="1101.5" y="257" as="geometry" />
         </mxCell>
         <mxCell id="ocAe3dWcoNqjVCBCcVne-275" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 12px;&quot;&gt;Carplay&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 12px;&quot;&gt;Service&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="46.5" width="112" x="1113" y="283.5" as="geometry" />
@@ -786,12 +786,6 @@
         </mxCell>
         <mxCell id="ocAe3dWcoNqjVCBCcVne-298" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;BlueTooth&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="34" width="112" x="1938" y="392.5" as="geometry" />
-        </mxCell>
-        <mxCell id="ocAe3dWcoNqjVCBCcVne-299" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="" vertex="1">
-          <mxGeometry height="174" width="276" x="2070" y="257" as="geometry" />
-        </mxCell>
-        <mxCell id="ocAe3dWcoNqjVCBCcVne-300" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Extenal Service&lt;/font&gt;" vertex="1">
-          <mxGeometry height="19" width="121" x="2072" y="257" as="geometry" />
         </mxCell>
         <mxCell id="ocAe3dWcoNqjVCBCcVne-301" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;CarProperity&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="119.5" x="2076.5" y="284" as="geometry" />
