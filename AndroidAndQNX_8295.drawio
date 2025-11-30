@@ -824,10 +824,10 @@
           <mxGeometry height="19" width="115" x="2190" y="42" as="geometry" />
         </mxCell>
         <mxCell id="ocAe3dWcoNqjVCBCcVne-319" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;HAVC&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="120.67" x="2206.16" y="82.5" as="geometry" />
+          <mxGeometry height="30" width="120.67" x="2206.17" y="89.5" as="geometry" />
         </mxCell>
         <mxCell id="ocAe3dWcoNqjVCBCcVne-320" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Seat&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="120.67" x="2206.16" y="138.5" as="geometry" />
+          <mxGeometry height="30" width="120.67" x="2206.17" y="145.5" as="geometry" />
         </mxCell>
         <mxCell id="ocAe3dWcoNqjVCBCcVne-321" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Media Status&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="31.25" width="112" x="1111" y="69.75" as="geometry" />
@@ -878,7 +878,13 @@
           <mxGeometry height="31.87" width="112" x="1111" y="168.13" as="geometry" />
         </mxCell>
         <mxCell id="ocAe3dWcoNqjVCBCcVne-337" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="Energy" vertex="1">
-          <mxGeometry height="41.62" width="112" x="1952.5" y="106.69" as="geometry" />
+          <mxGeometry height="41.31" width="112" x="1952.5" y="106.69" as="geometry" />
+        </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-338" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="Scene(Mode)" vertex="1">
+          <mxGeometry height="41.31" width="112" x="1952.5" y="159.19" as="geometry" />
+        </mxCell>
+        <mxCell id="ocAe3dWcoNqjVCBCcVne-339" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" value="In Vehicle&lt;div&gt;Diag.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="41.31" width="104" x="2070" y="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
