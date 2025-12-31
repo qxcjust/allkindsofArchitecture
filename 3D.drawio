@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.7">
   <diagram name="第 1 页" id="N5_BUvkcqpYwLRPBLIqo">
-    <mxGraphModel dx="1422" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,6 +104,9 @@
         </mxCell>
         <mxCell id="gqg9Gbii2J40kMH7kWah-34" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service_package_file;" value="APK" vertex="1">
           <mxGeometry height="90" width="90" x="523" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="gqg9Gbii2J40kMH7kWah-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="1. Change complie target from sdk to apk based on gradle&lt;div&gt;2. Change UE complie rule from apk to sdk.&lt;/div&gt;&lt;div&gt;3. Implement 3D SDK into android app project on gradle&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="770" x="30" y="820" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
