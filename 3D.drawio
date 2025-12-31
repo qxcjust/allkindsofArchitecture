@@ -1,19 +1,19 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.7">
   <diagram name="第 1 页" id="N5_BUvkcqpYwLRPBLIqo">
-    <mxGraphModel dx="1237" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="790" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gqg9Gbii2J40kMH7kWah-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="" vertex="1">
           <mxGeometry height="210" width="196" x="384" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="gqg9Gbii2J40kMH7kWah-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="Java" vertex="1">
+        <mxCell id="gqg9Gbii2J40kMH7kWah-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="Java/Kotlin" vertex="1">
           <mxGeometry height="50" width="100" x="30" y="110" as="geometry" />
         </mxCell>
         <mxCell id="gqg9Gbii2J40kMH7kWah-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;E-Segma Develop Process&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="270" x="30" as="geometry" />
         </mxCell>
-        <mxCell id="gqg9Gbii2J40kMH7kWah-3" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="Java" vertex="1">
+        <mxCell id="gqg9Gbii2J40kMH7kWah-3" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="Java/Kotlin" vertex="1">
           <mxGeometry height="50" width="100" x="30" y="180" as="geometry" />
         </mxCell>
         <mxCell id="gqg9Gbii2J40kMH7kWah-5" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
@@ -60,11 +60,11 @@
         <mxCell id="gqg9Gbii2J40kMH7kWah-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;D-Segma Develop Process - Improve&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="270" x="30" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="gqg9Gbii2J40kMH7kWah-20" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="Java" vertex="1">
-          <mxGeometry height="50" width="100" x="40" y="490" as="geometry" />
+        <mxCell id="gqg9Gbii2J40kMH7kWah-20" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="Java/Kotlin" vertex="1">
+          <mxGeometry height="50" width="100" x="40" y="450" as="geometry" />
         </mxCell>
-        <mxCell id="gqg9Gbii2J40kMH7kWah-21" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="Java" vertex="1">
-          <mxGeometry height="50" width="100" x="40" y="560" as="geometry" />
+        <mxCell id="gqg9Gbii2J40kMH7kWah-21" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="Java/Kotlin" vertex="1">
+          <mxGeometry height="50" width="100" x="40" y="520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
