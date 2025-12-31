@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.7">
   <diagram name="第 1 页" id="N5_BUvkcqpYwLRPBLIqo">
-    <mxGraphModel dx="1655" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1103" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gqg9Gbii2J40kMH7kWah-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="Java" vertex="1">
+          <mxGeometry height="50" width="100" x="60" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gqg9Gbii2J40kMH7kWah-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;E-Segma&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="30" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gqg9Gbii2J40kMH7kWah-3" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="Java" vertex="1">
+          <mxGeometry height="50" width="100" x="60" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gqg9Gbii2J40kMH7kWah-5" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="170" y="150" as="sourcePoint" />
+            <mxPoint x="300" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gqg9Gbii2J40kMH7kWah-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Compile&amp;amp;Package&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="200" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gqg9Gbii2J40kMH7kWah-7" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#96BF3D;gradientColor=none;" value="AAR/SDK" vertex="1">
+          <mxGeometry height="84" width="73.5" x="310" y="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
