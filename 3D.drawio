@@ -22,8 +22,8 @@
             <mxPoint x="270" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqg9Gbii2J40kMH7kWah-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Compile&amp;amp;Package&lt;br&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="170" y="140" as="geometry" />
+        <mxCell id="gqg9Gbii2J40kMH7kWah-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Compile&amp;amp;Package&lt;br&gt;by Gradle&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="170" y="180" as="geometry" />
         </mxCell>
         <mxCell id="gqg9Gbii2J40kMH7kWah-7" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#96BF3D;gradientColor=none;" value="AAR/SDK" vertex="1">
           <mxGeometry height="84" width="73.5" x="270" y="130" as="geometry" />
