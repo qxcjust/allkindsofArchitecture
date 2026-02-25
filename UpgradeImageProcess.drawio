@@ -67,6 +67,9 @@
             <mxPoint x="740" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="8f3hZ9HVckntsKfUce8C-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="内部开发人员主要使用的升级方式为：QFILE的方式，因为USB升级包的方式需要经过USB打包流程才会有&lt;br&gt;&lt;br&gt;※1：OEM专用的加密算法对编译后的Image进行拆包，对称加密，加签等&lt;div&gt;※2：高通QFILE&lt;/div&gt;&lt;div&gt;※3：升级治具，是否真的需要，待确认&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="591" x="120" y="330" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
