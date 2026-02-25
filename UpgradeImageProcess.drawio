@@ -1,14 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.5.3">
   <diagram name="第 1 页" id="3T9HnUxwqNIX7f3fwgSg">
-    <mxGraphModel dx="444" dy="302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8f3hZ9HVckntsKfUce8C-1" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Image_Definition.svg;" value="系统编译后Image文件" vertex="1">
-          <mxGeometry height="80" width="85" x="80" y="80" as="geometry" />
+          <mxGeometry height="80" width="85" x="80" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="8f3hZ9HVckntsKfUce8C-2" parent="1" style="text;whiteSpace=wrap;" value="Encryption" vertex="1">
-          <mxGeometry height="30" width="60" x="210" y="240" as="geometry" />
+        <mxCell id="8f3hZ9HVckntsKfUce8C-3" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.usb" value="USB升级包" vertex="1">
+          <mxGeometry height="23" width="50" x="450" y="65" as="geometry" />
+        </mxCell>
+        <mxCell id="8f3hZ9HVckntsKfUce8C-4" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;" value="&lt;div&gt;&lt;span style=&quot;text-align: left; text-wrap-mode: wrap;&quot;&gt;Encryption&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="25.16" x="300" y="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
