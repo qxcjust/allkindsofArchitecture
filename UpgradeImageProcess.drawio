@@ -31,7 +31,7 @@
         <mxCell id="8f3hZ9HVckntsKfUce8C-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="升级方式" vertex="1">
           <mxGeometry height="30" width="60" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="8f3hZ9HVckntsKfUce8C-11" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.tool;" value="QFILE" vertex="1">
+        <mxCell id="8f3hZ9HVckntsKfUce8C-11" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.tool;" value="QFILE&lt;br&gt;※2" vertex="1">
           <mxGeometry height="45" width="50" x="137.5" y="240" as="geometry" />
         </mxCell>
         <mxCell id="8f3hZ9HVckntsKfUce8C-14" edge="1" parent="1" source="8f3hZ9HVckntsKfUce8C-1" style="endArrow=classic;html=1;rounded=0;exitX=0.428;exitY=0.985;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.381;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;" target="8f3hZ9HVckntsKfUce8C-11" value="">
@@ -40,7 +40,7 @@
             <mxPoint x="260" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8f3hZ9HVckntsKfUce8C-15" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.lean_mapping.kaizen_lightening_burst;" value="升级治具" vertex="1">
+        <mxCell id="8f3hZ9HVckntsKfUce8C-15" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.lean_mapping.kaizen_lightening_burst;" value="升级治具&lt;br&gt;※3" vertex="1">
           <mxGeometry height="40" width="90" x="360" y="240" as="geometry" />
         </mxCell>
         <mxCell id="8f3hZ9HVckntsKfUce8C-16" parent="8f3hZ9HVckntsKfUce8C-15" style="rect;fillColor=strokeColor;" value="" vertex="1">
