@@ -10,7 +10,7 @@
         <mxCell id="8f3hZ9HVckntsKfUce8C-3" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.usb" value="USB升级包" vertex="1">
           <mxGeometry height="23" width="50" x="490" y="65" as="geometry" />
         </mxCell>
-        <mxCell id="8f3hZ9HVckntsKfUce8C-4" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;" value="&lt;div&gt;&lt;span style=&quot;text-align: left; text-wrap-mode: wrap;&quot;&gt;&lt;font style=&quot;color: rgb(255, 33, 4); font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Encryption&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="8f3hZ9HVckntsKfUce8C-4" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;" value="&lt;span style=&quot;text-align: left; text-wrap-mode: wrap;&quot;&gt;&lt;font style=&quot;color: rgb(255, 33, 4); font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Encryption&lt;br&gt;※1&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="25.16" x="340" y="58" as="geometry" />
         </mxCell>
         <mxCell id="8f3hZ9HVckntsKfUce8C-5" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/IP_TV.svg;" value="主机" vertex="1">
