@@ -47,18 +47,18 @@
           <mxGeometry height="24" width="74" x="8" y="8" as="geometry" />
         </mxCell>
         <mxCell id="8f3hZ9HVckntsKfUce8C-17" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/IP_TV.svg;" value="主机" vertex="1">
-          <mxGeometry height="50.4" width="49.199999999999996" x="630" y="234.60000000000002" as="geometry" />
+          <mxGeometry height="50.4" width="49.199999999999996" x="640" y="234.60000000000002" as="geometry" />
         </mxCell>
         <mxCell id="8f3hZ9HVckntsKfUce8C-18" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=11.2;endSize=4.596;width=7.2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="660" y="237.8" as="sourcePoint" />
-            <mxPoint x="660" y="215.8" as="targetPoint" />
+            <mxPoint x="670" y="237.8" as="sourcePoint" />
+            <mxPoint x="670" y="215.8" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8f3hZ9HVckntsKfUce8C-19" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.964;exitY=0.593;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.648;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="186" y="262.08000000000004" as="sourcePoint" />
-            <mxPoint x="624" y="262.08000000000004" as="targetPoint" />
+            <mxPoint x="190" y="262.08000000000004" as="sourcePoint" />
+            <mxPoint x="628" y="262.08000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
