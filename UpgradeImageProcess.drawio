@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.5.3">
   <diagram name="第 1 页" id="3T9HnUxwqNIX7f3fwgSg">
-    <mxGraphModel dx="634" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="8f3hZ9HVckntsKfUce8C-4" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;" value="&lt;div&gt;&lt;span style=&quot;text-align: left; text-wrap-mode: wrap;&quot;&gt;&lt;font style=&quot;color: rgb(255, 33, 4); font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Encryption&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="25.16" x="340" y="58" as="geometry" />
         </mxCell>
-        <mxCell id="8f3hZ9HVckntsKfUce8C-5" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/IP_TV.svg;" value="" vertex="1">
+        <mxCell id="8f3hZ9HVckntsKfUce8C-5" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/IP_TV.svg;" value="主机" vertex="1">
           <mxGeometry height="50.4" width="49.199999999999996" x="640" y="54.8" as="geometry" />
         </mxCell>
         <mxCell id="8f3hZ9HVckntsKfUce8C-6" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=11.2;endSize=4.596;width=7.2;" value="">
@@ -38,6 +38,27 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="210" y="210" as="sourcePoint" />
             <mxPoint x="260" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8f3hZ9HVckntsKfUce8C-15" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.lean_mapping.kaizen_lightening_burst;" value="升级治具" vertex="1">
+          <mxGeometry height="40" width="90" x="360" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="8f3hZ9HVckntsKfUce8C-16" parent="8f3hZ9HVckntsKfUce8C-15" style="rect;fillColor=strokeColor;" value="" vertex="1">
+          <mxGeometry height="24" width="74" x="8" y="8" as="geometry" />
+        </mxCell>
+        <mxCell id="8f3hZ9HVckntsKfUce8C-17" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/IP_TV.svg;" value="主机" vertex="1">
+          <mxGeometry height="50.4" width="49.199999999999996" x="630" y="234.60000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="8f3hZ9HVckntsKfUce8C-18" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=11.2;endSize=4.596;width=7.2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="660" y="237.8" as="sourcePoint" />
+            <mxPoint x="660" y="215.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8f3hZ9HVckntsKfUce8C-19" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.964;exitY=0.593;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.648;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="186" y="262.08000000000004" as="sourcePoint" />
+            <mxPoint x="624" y="262.08000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
