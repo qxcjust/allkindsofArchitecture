@@ -24,6 +24,32 @@
             <mxPoint x="7" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vI_Grp6fzzsrc99L2HwY-12" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.desktop_pc;network2IconXOffset=-0.0034;network2IconYOffset=0.00035;network2IconW=0.453;network2IconH=0.9995;" value="Jenkins" vertex="1">
+          <mxGeometry height="60" width="27.19" x="260" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="vI_Grp6fzzsrc99L2HwY-14" edge="1" parent="1" source="vI_Grp6fzzsrc99L2HwY-3" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.026;entryY=0.526;entryDx=0;entryDy=0;entryPerimeter=0;" target="vI_Grp6fzzsrc99L2HwY-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="30" y="350" as="sourcePoint" />
+            <mxPoint x="203" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vI_Grp6fzzsrc99L2HwY-15" connectable="0" parent="vI_Grp6fzzsrc99L2HwY-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Build Req." vertex="1">
+          <mxGeometry relative="1" x="-0.0486" y="-1" as="geometry">
+            <mxPoint x="7" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vI_Grp6fzzsrc99L2HwY-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" value="" vertex="1">
+          <mxGeometry height="120" width="360" x="340" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="vI_Grp6fzzsrc99L2HwY-17" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" value="" vertex="1">
+          <mxGeometry height="70" width="60" x="370" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="vI_Grp6fzzsrc99L2HwY-18" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" value="" vertex="1">
+          <mxGeometry height="70" width="60" x="480" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="vI_Grp6fzzsrc99L2HwY-19" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" value="" vertex="1">
+          <mxGeometry height="70" width="60" x="610" y="195" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
