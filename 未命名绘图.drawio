@@ -8,13 +8,16 @@
           <mxGeometry height="30" width="110" as="geometry" />
         </mxCell>
         <mxCell id="vI_Grp6fzzsrc99L2HwY-2" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.desktop_pc;network2IconXOffset=-0.0034;network2IconYOffset=0.00035;network2IconW=0.453;network2IconH=0.9995;" value="&#xa;" vertex="1">
-          <mxGeometry height="60" width="27.19" x="70" y="240" as="geometry" />
+          <mxGeometry height="60" width="27.19" x="70" y="200" as="geometry" />
         </mxCell>
         <mxCell id="vI_Grp6fzzsrc99L2HwY-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="开发者" vertex="1">
           <mxGeometry height="40" width="20" x="40" y="180" as="geometry" />
         </mxCell>
         <mxCell id="vI_Grp6fzzsrc99L2HwY-6" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Unicons_Line_vol_3-2965/gitlab-1346.svg" value="Gitlab" vertex="1">
           <mxGeometry height="40" width="40" x="210" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vI_Grp6fzzsrc99L2HwY-7" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.desktop_pc;network2IconXOffset=-0.0034;network2IconYOffset=0.00035;network2IconW=0.453;network2IconH=0.9995;" value="&#xa;" vertex="1">
+          <mxGeometry height="60" width="27.19" x="250" y="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
