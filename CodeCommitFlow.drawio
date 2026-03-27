@@ -7,6 +7,14 @@
         <mxCell id="Yk_ykKwHMjL-NjJ8E0zy-1" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.terminal;" value="开发者" vertex="1">
           <mxGeometry height="54" width="61" x="110" y="220" as="geometry" />
         </mxCell>
+        <mxCell id="Yk_ykKwHMjL-NjJ8E0zy-4" edge="1" parent="1" source="Yk_ykKwHMjL-NjJ8E0zy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="Yk_ykKwHMjL-NjJ8E0zy-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk_ykKwHMjL-NjJ8E0zy-5" connectable="0" parent="Yk_ykKwHMjL-NjJ8E0zy-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="① Pull代码" vertex="1">
+          <mxGeometry relative="1" x="-0.0998" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Yk_ykKwHMjL-NjJ8E0zy-2" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.ibm_mainframe;" value="" vertex="1">
           <mxGeometry height="70" width="50" x="520" y="110" as="geometry" />
         </mxCell>
