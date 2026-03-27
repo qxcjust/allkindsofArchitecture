@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Yk_ykKwHMjL-NjJ8E0zy-13" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="130" width="130" x="390" y="180" as="geometry" />
+        </mxCell>
         <mxCell id="Yk_ykKwHMjL-NjJ8E0zy-1" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.terminal;" value="开发者" vertex="1">
           <mxGeometry height="54" width="61" x="110" y="220" as="geometry" />
         </mxCell>
@@ -16,12 +19,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Yk_ykKwHMjL-NjJ8E0zy-2" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.ibm_mainframe;" value="" vertex="1">
-          <mxGeometry height="70" width="50" x="360" y="110" as="geometry" />
+          <mxGeometry height="70" width="50" x="440" y="90" as="geometry" />
         </mxCell>
         <mxCell id="Yk_ykKwHMjL-NjJ8E0zy-3" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Socialcones-2932/Gitlab-794.svg" value="" vertex="1">
-          <mxGeometry height="50" width="50" x="360" y="60" as="geometry" />
+          <mxGeometry height="50" width="50" x="440" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yk_ykKwHMjL-NjJ8E0zy-7" parent="1" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.database_3" value="" vertex="1">
+        <mxCell id="Yk_ykKwHMjL-NjJ8E0zy-7" parent="1" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.database_3" value="开发分支" vertex="1">
           <mxGeometry height="57.14" width="40" x="280" y="218.43" as="geometry" />
         </mxCell>
         <mxCell id="Yk_ykKwHMjL-NjJ8E0zy-8" edge="1" parent="1" source="Yk_ykKwHMjL-NjJ8E0zy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="Yk_ykKwHMjL-NjJ8E0zy-7">
@@ -31,6 +34,15 @@
           <mxGeometry relative="1" x="-0.1585" y="2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Yk_ykKwHMjL-NjJ8E0zy-10" parent="1" style="shape=tape;whiteSpace=wrap;html=1;size=0.2;" value="Build检查" vertex="1">
+          <mxGeometry height="40" width="90" x="410" y="187" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk_ykKwHMjL-NjJ8E0zy-11" parent="1" style="shape=tape;whiteSpace=wrap;html=1;size=0.2;" value="代码静态检查" vertex="1">
+          <mxGeometry height="40" width="90" x="410" y="227" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk_ykKwHMjL-NjJ8E0zy-12" parent="1" style="shape=tape;whiteSpace=wrap;html=1;size=0.2;" value="单体测试" vertex="1">
+          <mxGeometry height="40" width="90" x="410" y="267" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
