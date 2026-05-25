@@ -1,0 +1,109 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="1u5Ue0Zl-DfnMb0Ii8zk" name="第 1 页">
+    <mxGraphModel dx="1569" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" value="Configuration Management (CM) Overview" vertex="1">
+          <mxGeometry height="40" width="590" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="center" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;fontStyle=1;gradientColor=#7ea6e0;" value="Configuration&lt;br&gt;Management&lt;br&gt;(CM)" vertex="1">
+          <mxGeometry height="150" width="150" x="510" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ci_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;" value="" vertex="1">
+          <mxGeometry height="180" width="280" x="80" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ci_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" value="1. Configuration Identification&lt;br&gt;(配置识别)" vertex="1">
+          <mxGeometry height="30" width="280" x="80" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ci_items" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;spacingLeft=10;" value="• Unique Identifiers (唯一标识符)&lt;br&gt;• Version Numbers (版本号)&lt;br&gt;• Product Structure (产品结构)&lt;br&gt;• Baseline Definition (基线定义)&lt;br&gt;• Configuration Items (配置项)" vertex="1">
+          <mxGeometry height="130" width="260" x="90" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="cc_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;" value="" vertex="1">
+          <mxGeometry height="180" width="280" x="810" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cc_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" value="2. Configuration Control&lt;br&gt;(配置控制)" vertex="1">
+          <mxGeometry height="30" width="280" x="810" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cc_items" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;spacingLeft=10;" value="• Change Request (变更请求)&lt;br&gt;• Impact Analysis (影响分析)&lt;br&gt;• CCB Approval (CCB审批)&lt;br&gt;• Implementation (实施)&lt;br&gt;• Verification (验证)" vertex="1">
+          <mxGeometry height="130" width="260" x="820" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="csa_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;" value="" vertex="1">
+          <mxGeometry height="180" width="280" x="80" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="csa_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" value="3. Configuration Status Accounting&lt;br&gt;(配置状态记录)" vertex="1">
+          <mxGeometry height="30" width="280" x="80" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="csa_items" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;spacingLeft=10;" value="• Current Status (当前状态)&lt;br&gt;• Version History (历史版本)&lt;br&gt;• Change Progress (变更进展)&lt;br&gt;• Real-time Reporting (实时报告)&lt;br&gt;• System Visibility (系统可视性)" vertex="1">
+          <mxGeometry height="130" width="260" x="90" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=0;" value="" vertex="1">
+          <mxGeometry height="180" width="280" x="810" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" value="4. Configuration Verification &amp;amp; Audit&lt;br&gt;(配置验证与审计)" vertex="1">
+          <mxGeometry height="30" width="280" x="810" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_items" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;spacingLeft=10;" value="• Physical Configuration Audit (PCA)&lt;br&gt;&amp;nbsp;&amp;nbsp;(物理配置审计)&lt;br&gt;• Functional Configuration Audit (FCA)&lt;br&gt;&amp;nbsp;&amp;nbsp;(功能配置审计)&lt;br&gt;• Compliance Check (合规性检查)" vertex="1">
+          <mxGeometry height="130" width="260" x="820" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="rm_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e1f5;strokeColor=#4472c4;shadow=0;" value="" vertex="1">
+          <mxGeometry height="130" width="280" x="445" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="rm_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" value="5. Release Management &amp;amp; Delivery&lt;br&gt;(发布管理与交付)" vertex="1">
+          <mxGeometry height="30" width="280" x="445" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="rm_items" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;spacingLeft=10;" value="• Version Packaging (版本打包)&lt;br&gt;• Secure Storage (安全存储)&lt;br&gt;• Controlled Delivery (受控交付)&lt;br&gt;• Documentation (文档管理)" vertex="1">
+          <mxGeometry height="85" width="260" x="455" y="715" as="geometry" />
+        </mxCell>
+        <mxCell id="line1" edge="1" parent="1" style="endArrow=classic;html=1;strokeWidth=2;strokeColor=#6c8ebf;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="510" y="400" as="sourcePoint" />
+            <mxPoint x="360" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="line2" edge="1" parent="1" style="endArrow=classic;html=1;strokeWidth=2;strokeColor=#82b366;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="660" y="400" as="sourcePoint" />
+            <mxPoint x="810" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="line3" edge="1" parent="1" style="endArrow=classic;html=1;strokeWidth=2;strokeColor=#b85450;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="510" y="450" as="sourcePoint" />
+            <mxPoint x="360" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="line4" edge="1" parent="1" style="endArrow=classic;html=1;strokeWidth=2;strokeColor=#9673a6;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="660" y="450" as="sourcePoint" />
+            <mxPoint x="810" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="line5" edge="1" parent="1" style="endArrow=classic;html=1;strokeWidth=2;strokeColor=#4472c4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="585" y="500" as="sourcePoint" />
+            <mxPoint x="585" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="goal_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=0;dashed=1;" value="" vertex="1">
+          <mxGeometry height="100" width="280" x="445" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="goal_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1" value="CM Goals (配置管理目标)" vertex="1">
+          <mxGeometry height="25" width="280" x="445" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="goal_items" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;" value="✓ Integrity (完整性)&lt;br&gt;✓ Consistency (一致性)&lt;br&gt;✓ Traceability (可追溯性)" vertex="1">
+          <mxGeometry height="65" width="260" x="455" y="108" as="geometry" />
+        </mxCell>
+        <mxCell id="line_goal" edge="1" parent="1" style="endArrow=classic;html=1;strokeWidth=2;strokeColor=#666666;dashed=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="585" y="350" as="sourcePoint" />
+            <mxPoint x="585" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lifecycle" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=3;rotation=0;" value="Product Lifecycle (产品生命周期)" vertex="1">
+          <mxGeometry height="30" width="260" x="80" y="390" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
